@@ -1,4 +1,4 @@
 # HomeyScripts
-Repository containing a few HomeyScripts (for Homey Pro).
+Repository containing HomeyScripts (Written on/for Homey Pro, version Early 2019).
 ## Warning
 Use of scripts is at own risk
